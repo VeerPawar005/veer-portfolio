@@ -14,7 +14,7 @@ export const personalInfo = {
   ],
   email: 'veerpawar3123@gmail.com',
   phone: '+91 70202 68024',
-  location: 'Aurangabad, Maharashtra — Open to Pan-India Relocation',
+  location: 'Wardha, Maharashtra — Open to Pan-India Relocation',
   linkedin: 'https://linkedin.com/in/veer-pawar-4a560a257',
   github: 'https://github.com/veerpawar', // update if different
   cgpa: '8.0',
