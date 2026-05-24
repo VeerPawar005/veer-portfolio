@@ -40,7 +40,7 @@ export default function Contact() {
   const contactItems = [
     { icon: HiMail, label: 'Email', value: personalInfo.email, href: `mailto:${personalInfo.email}` },
     { icon: HiPhone, label: 'Phone', value: personalInfo.phone, href: `tel:${personalInfo.phone}` },
-    { icon: HiLocationMarker, label: 'Location', value: 'Aurangabad, MH · Pan-India', href: null },
+    { icon: HiLocationMarker, label: 'Location', value: 'Wardha, MH · Pan-India', href: null },
     { icon: HiExternalLink, label: 'LinkedIn', value: 'linkedin.com/in/veer-pawar-4a560a257', href: personalInfo.linkedin },
   ]
 
