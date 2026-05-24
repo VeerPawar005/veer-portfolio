@@ -230,7 +230,7 @@ export const certifications = [
 export const education = [
   {
     degree: 'B.Tech — Artificial Intelligence & Data Science',
-    institution: 'CSMSS CHH Shahu College of Engineering, Aurangabad',
+    institution: 'CSMSS CHH Shahu College of Engineering, Chhatrapati Sambhajinagar',
     score: 'CGPA 8.0 / 10',
     year: '2022 – 2026',
     coursework: 'Machine Learning · Deep Learning · NLP · Computer Vision · Data Analytics · Database Management · Data Engineering',
